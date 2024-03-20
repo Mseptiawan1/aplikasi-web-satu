@@ -4,3 +4,5 @@ jadi pacar sasa
 bismillah
 semoga
 fundamental struktur
+frame work js
+materi python
