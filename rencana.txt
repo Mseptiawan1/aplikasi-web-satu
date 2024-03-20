@@ -6,3 +6,4 @@ semoga
 fundamental struktur
 frame work js
 materi python
+react
