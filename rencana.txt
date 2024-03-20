@@ -3,3 +3,4 @@ framework gin
 jadi pacar sasa
 bismillah
 semoga
+fundamental struktur
